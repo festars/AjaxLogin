@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <title>Check Data</title>
-<script src="js/jquery-2.1.1.min.js"></script>
+<script src="jquery-2.1.1.min.js"></script>
 <script type="text/javascript">
 function ajax_data()
 {
