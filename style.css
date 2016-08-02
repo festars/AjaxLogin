@@ -1,0 +1,39 @@
+@charset "utf-8";
+/* CSS Document */
+#container
+{
+	width:960px;
+	margin:0px auto;
+	height:auto;	
+}
+#box
+{
+	width:940px;
+	margin:0px auto;
+	float:left;
+	height:auto;
+	text-align:center;
+	padding:10px;
+	background-color:gray;
+	color:white;
+		
+}
+#result
+{
+	height:auto;
+	width:940px;
+	margin:0px auto;
+	text-align:center;
+	color:#ffffff;
+	background-color:#09c;
+	font-size:18px;
+	padding:10px;	
+	
+}
+h2
+{
+	font-size:23px;
+	color:white;
+	font-family:roboto;	
+}
+
